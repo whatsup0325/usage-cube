@@ -1,0 +1,1 @@
+    "command": "python3 -X utf8 \"$HOME/.claude/statusline.py\""
